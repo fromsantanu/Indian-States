@@ -351,9 +351,7 @@
    - Political Scenario: Key Leaders, Parties, and Governance
    - Infrastructure: Roads, Connectivity, and Rural Development
    - Social Issues: Education, Healthcare, and Ethnic Conflicts
-   -
-
- Environmental Issues: Deforestation, Floods, and Wildlife Conservation
+   - Environmental Issues: Deforestation, Floods, and Wildlife Conservation
    - Tourism: Natural Beauty, Cultural Heritage, and Festivals
    - Current Affairs and Recent Developments
    - State Symbols: Bird, Animal, Flower, and Tree
