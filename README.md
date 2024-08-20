@@ -1,148 +1,148 @@
 # Indian States
 
 ### **1. Andhra Pradesh**
-   - [Geography and Climate]
-   - [History and Major Historical Sites](*)
-   - [Economy: Agriculture, Industries, and Services](*)
-   - [Demographics: Population, Languages, and Ethnic Groups](*)
-   - [Major Cities and Urban Development](*)
-   - [Culture: Art, Music, Dance, and Festivals](*)
-   - [Education and Literacy](*)
-   - [Key Political Figures and Governance](*)
-   - [Infrastructure: Transportation and Energy](*)
-   - [Social Issues: Healthcare, Poverty, and Gender](*)
-   - [Environmental Concerns and Wildlife](*)
-   - [Tourism: Major Attractions and Tourism Policies](*)
-   - [Current Affairs and Recent Developments](*)
-   - [State Symbols: Bird, Animal, Flower, and Tree](*)
+   - [Geography and Climate](#)
+   - [History and Major Historical Sites](#)
+   - [Economy: Agriculture, Industries, and Services](#)
+   - [Demographics: Population, Languages, and Ethnic Groups](#)
+   - [Major Cities and Urban Development](#)
+   - [Culture: Art, Music, Dance, and Festivals](#)
+   - [Education and Literacy](#)
+   - [Key Political Figures and Governance](#)
+   - [Infrastructure: Transportation and Energy](#)
+   - [Social Issues: Healthcare, Poverty, and Gender](#)
+   - [Environmental Concerns and Wildlife](#)
+   - [Tourism: Major Attractions and Tourism Policies](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **2. Arunachal Pradesh**
-   - [Geography and Border Issues](*)
-   - [Indigenous Tribes and Ethnic Groups](*)
-   - [Traditional Practices and Festivals](*)
-   - [Impact of Chinese Border Disputes](*)
-   - [Infrastructure Challenges](*)
-   - [Wildlife and Conservation Efforts](*)
-   - [Economic Activities: Agriculture and Handicrafts](*)
-   - [Government Policies for Tribal Welfare](*)
-   - [Tourism Potential: Natural Beauty and Adventure Tourism](*)
-   - [Education and Literacy Challenges](*)
-   - [Environmental Issues: Deforestation and Landslides](*)
+   - [Geography and Border Issues](#)
+   - [Indigenous Tribes and Ethnic Groups](#)
+   - [Traditional Practices and Festivals](#)
+   - [Impact of Chinese Border Disputes](#)
+   - [Infrastructure Challenges](#)
+   - [Wildlife and Conservation Efforts](#)
+   - [Economic Activities: Agriculture and Handicrafts](#)
+   - [Government Policies for Tribal Welfare](#)
+   - [Tourism Potential: Natural Beauty and Adventure Tourism](#)
+   - [Education and Literacy Challenges](#)
+   - [Environmental Issues: Deforestation and Landslides](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
+
+### **3. Assam**
+   - [Geography: Brahmaputra River and Tea Gardens](#)
+   - [History: Ahom Kingdom and Colonial Influence](#)
+   - [Economy: Tea Industry, Oil, and Agriculture](#)
+   - [Demographics: Assamese, Bengalis, and Indigenous Tribes](#)
+   - [Assamese Culture: Bihu, Music, and Handicrafts](#)
+   - [Political History: ULFA, Assam Accord, and Recent Political Trends](#)
+   - [Environmental Issues: Floods and Erosion](#)
+   - [Education: Institutions and Literacy](#)
+   - [Social Issues: Immigration, Ethnic Clashes, and NRC](#)
+   - [Tourism: Kaziranga National Park, Majuli Island](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
+
+### **4. Bihar**
+   - [Geography and Rivers: Ganga and its Tributaries](*)
+   - [Ancient History: Magadha, Nalanda, and Buddhism](*)
+   - [Economy: Agriculture, Handloom, and Industrialization](*)
+   - [Demographics: Castes, Religious Groups, and Languages](*)
+   - [Culture: Folk Music, Dance, and Festivals](*)
+   - [Political Landscape: Historical Leaders and Modern Politics](*)
+   - [Infrastructure: Roads, Railways, and Power Supply](*)
+   - [Social Issues: Education, Poverty, and Gender Disparity](*)
+   - [Education and Historical Institutions](*)
+   - [Environmental Challenges: Floods and Water Management](*)
+   - [Tourism: Bodh Gaya, Patna, and Ancient Sites](*)
    - [Current Affairs and Recent Developments](*)
    - [State Symbols: Bird, Animal, Flower, and Tree](*)
 
-### **3. Assam**
-   - Geography: Brahmaputra River and Tea Gardens
-   - History: Ahom Kingdom and Colonial Influence
-   - Economy: Tea Industry, Oil, and Agriculture
-   - Demographics: Assamese, Bengalis, and Indigenous Tribes
-   - Assamese Culture: Bihu, Music, and Handicrafts
-   - Political History: ULFA, Assam Accord, and Recent Political Trends
-   - Environmental Issues: Floods and Erosion
-   - Education: Institutions and Literacy
-   - Social Issues: Immigration, Ethnic Clashes, and NRC
-   - Tourism: Kaziranga National Park, Majuli Island
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
-
-### **4. Bihar**
-   - Geography and Rivers: Ganga and its Tributaries
-   - Ancient History: Magadha, Nalanda, and Buddhism
-   - Economy: Agriculture, Handloom, and Industrialization
-   - Demographics: Castes, Religious Groups, and Languages
-   - Culture: Folk Music, Dance, and Festivals
-   - Political Landscape: Historical Leaders and Modern Politics
-   - Infrastructure: Roads, Railways, and Power Supply
-   - Social Issues: Education, Poverty, and Gender Disparity
-   - Education and Historical Institutions
-   - Environmental Challenges: Floods and Water Management
-   - Tourism: Bodh Gaya, Patna, and Ancient Sites
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
-
 ### **5. Chhattisgarh**
-   - Geography: Forests, Rivers, and Mineral Resources
-   - History: Formation of the State and Tribal History
-   - Economy: Mining, Agriculture, and Handicrafts
-   - Demographics: Tribal Population and Cultural Practices
-   - Culture: Traditional Music, Dance, and Festivals
-   - Governance: Political Parties and Administrative Structure
-   - Infrastructure: Industrial Hubs and Rural Development
-   - Social Issues: Naxalism, Tribal Rights, and Education
-   - Environmental Concerns: Forest Conservation and Mining Impact
-   - Tourism: Natural Parks, Caves, and Waterfalls
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Forests, Rivers, and Mineral Resources](#)
+   - [History: Formation of the State and Tribal History](#)
+   - [Economy: Mining, Agriculture, and Handicrafts](#)
+   - [Demographics: Tribal Population and Cultural Practices](#)
+   - [Culture: Traditional Music, Dance, and Festivals](#)
+   - [Governance: Political Parties and Administrative Structure](#)
+   - [Infrastructure: Industrial Hubs and Rural Development](#)
+   - [Social Issues: Naxalism, Tribal Rights, and Education](#)
+   - [Environmental Concerns: Forest Conservation and Mining Impact](#)
+   - [Tourism: Natural Parks, Caves, and Waterfalls](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **6. Goa**
-   - Geography: Beaches, Western Ghats, and Rivers
-   - History: Portuguese Influence and Liberation Movement
-   - Economy: Tourism, Mining, and Fisheries
-   - Demographics: Konkani, Goan Catholics, and Ethnic Groups
-   - Culture: Festivals, Music, Dance, and Cuisine
-   - Political History: Governance, Parties, and Movements
-   - Infrastructure: Tourism Development and Urbanization
-   - Social Issues: Migration, Land Rights, and Education
-   - Environmental Challenges: Coastal Erosion and Mining Impact
-   - Tourism: Beaches, Heritage Sites, and Festivals
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Beaches, Western Ghats, and Rivers](#)
+   - [History: Portuguese Influence and Liberation Movement](#)
+   - [Economy: Tourism, Mining, and Fisheries](#)
+   - [Demographics: Konkani, Goan Catholics, and Ethnic Groups](#)
+   - [Culture: Festivals, Music, Dance, and Cuisine](#)
+   - [Political History: Governance, Parties, and Movements](#)
+   - [Infrastructure: Tourism Development and Urbanization](#)
+   - [Social Issues: Migration, Land Rights, and Education](#)
+   - [Environmental Challenges: Coastal Erosion and Mining Impact](#)
+   - [Tourism: Beaches, Heritage Sites, and Festivals](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **7. Gujarat**
-   - Geography: Coastal Areas, Rann of Kutch, and Rivers
-   - History: Ancient Civilizations, Freedom Movement, and Partition
-   - Economy: Industries, Ports, Agriculture, and Trade
-   - Demographics: Gujaratis, Parsis, and Tribal Groups
-   - Culture: Garba, Festivals, Handicrafts, and Cuisine
-   - Political Landscape: Major Leaders, BJP Dominance
-   - Infrastructure: Industrial Development, Ports, and Highways
-   - Social Issues: Caste Dynamics, Urbanization, and Education
-   - Environmental Concerns: Water Management, Droughts
-   - Tourism: Gir National Park, Somnath, and Historical Sites
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Coastal Areas, Rann of Kutch, and Rivers](#)
+   - [History: Ancient Civilizations, Freedom Movement, and Partition](#)
+   - [Economy: Industries, Ports, Agriculture, and Trade](#)
+   - [Demographics: Gujaratis, Parsis, and Tribal Groups](#)
+   - [Culture: Garba, Festivals, Handicrafts, and Cuisine](#)
+   - [Political Landscape: Major Leaders, BJP Dominance](#)
+   - [Infrastructure: Industrial Development, Ports, and Highways](#)
+   - [Social Issues: Caste Dynamics, Urbanization, and Education](#)
+   - [Environmental Concerns: Water Management, Droughts](#)
+   - [Tourism: Gir National Park, Somnath, and Historical Sites](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **8. Haryana**
-   - Geography: Plains, Rivers, and Agriculture
-   - History: Mahabharata Sites, Mughal Influence, and Formation
-   - Economy: Agriculture, Dairy, and Manufacturing
-   - Demographics: Jats, Punjabis, and Ethnic Groups
-   - Culture: Haryanvi Folk, Festivals, and Traditional Attire
-   - Political Scenario: Key Leaders, Parties, and Movements
-   - Infrastructure: Industrial Areas, Urbanization, and Connectivity
-   - Social Issues: Gender Ratio, Caste Conflicts, and Education
-   - Environmental Issues: Air and Water Pollution
-   - Tourism: Heritage Sites, Religious Places, and Natural Parks
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Plains, Rivers, and Agriculture](#)
+   - [History: Mahabharata Sites, Mughal Influence, and Formation](#)
+   - [Economy: Agriculture, Dairy, and Manufacturing](#)
+   - [Demographics: Jats, Punjabis, and Ethnic Groups](#)
+   - [Culture: Haryanvi Folk, Festivals, and Traditional Attire](#)
+   - [Political Scenario: Key Leaders, Parties, and Movements](#)
+   - [Infrastructure: Industrial Areas, Urbanization, and Connectivity](#)
+   - [Social Issues: Gender Ratio, Caste Conflicts, and Education](#)
+   - [Environmental Issues: Air and Water Pollution](#)
+   - [Tourism: Heritage Sites, Religious Places, and Natural Parks](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **9. Himachal Pradesh**
-   - Geography: Himalayas, Rivers, and Valleys
-   - History: Hill Kingdoms, British Influence, and State Formation
-   - Economy: Horticulture, Tourism, and Hydropower
-   - Demographics: Ethnic Groups, Languages, and Population Distribution
-   - Culture: Folk Music, Dance, Festivals, and Handicrafts
-   - Governance: Administrative Structure and Political Parties
-   - Infrastructure: Roads, Connectivity, and Rural Development
-   - Social Issues: Education, Healthcare, and Migration
-   - Environmental Challenges: Deforestation, Landslides, and Conservation
-   - Tourism: Hill Stations, Temples, and Adventure Sports
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Himalayas, Rivers, and Valleys](#)
+   - [History: Hill Kingdoms, British Influence, and State Formation](#)
+   - [Economy: Horticulture, Tourism, and Hydropower](#)
+   - [Demographics: Ethnic Groups, Languages, and Population Distribution](#)
+   - [Culture: Folk Music, Dance, Festivals, and Handicrafts](#)
+   - [Governance: Administrative Structure and Political Parties](#)
+   - [Infrastructure: Roads, Connectivity, and Rural Development](#)
+   - [Social Issues: Education, Healthcare, and Migration](#)
+   - [Environmental Challenges: Deforestation, Landslides, and Conservation](#)
+   - [Tourism: Hill Stations, Temples, and Adventure Sports](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **10. Jharkhand**
-   - Geography: Forests, Hills, and Rivers
-   - History: Tribal Movements, British Era, and State Formation
-   - Economy: Mining, Agriculture, and Industry
-   - Demographics: Tribal Communities, Languages, and Population
-   - Culture: Folk Music, Dance, and Festivals
-   - Political Scenario: Major Parties, Leaders, and Movements
-   - Infrastructure: Industrial Development, Rural Connectivity
-   - Social Issues: Tribal Rights, Education, and Healthcare
-   - Environmental Issues: Deforestation, Mining Impact, and Conservation
-   - Tourism: Natural Reserves, Waterfalls, and Cultural Sites
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Forests, Hills, and Rivers](#)
+   - [History: Tribal Movements, British Era, and State Formation](#)
+   - [Economy: Mining, Agriculture, and Industry](#)
+   - [Demographics: Tribal Communities, Languages, and Population](#)
+   - [Culture: Folk Music, Dance, and Festivals](#)
+   - [Political Scenario: Major Parties, Leaders, and Movements](#)
+   - [Infrastructure: Industrial Development, Rural Connectivity](#)
+   - [Social Issues: Tribal Rights, Education, and Healthcare](#)
+   - [Environmental Issues: Deforestation, Mining Impact, and Conservation](#)
+   - [Tourism: Natural Reserves, Waterfalls, and Cultural Sites](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **11. Karnataka**
    - Geography: Western Ghats, Coastal Areas, and Plateaus
