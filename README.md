@@ -1,35 +1,35 @@
 # Indian States
 
 ### **1. Andhra Pradesh**
-   - Geography and Climate
-   - History and Major Historical Sites
-   - Economy: Agriculture, Industries, and Services
-   - Demographics: Population, Languages, and Ethnic Groups
-   - Major Cities and Urban Development
-   - Culture: Art, Music, Dance, and Festivals
-   - Education and Literacy
-   - Key Political Figures and Governance
-   - Infrastructure: Transportation and Energy
-   - Social Issues: Healthcare, Poverty, and Gender
-   - Environmental Concerns and Wildlife
-   - Tourism: Major Attractions and Tourism Policies
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography and Climate]
+   - [History and Major Historical Sites](*)
+   - [Economy: Agriculture, Industries, and Services](*)
+   - [Demographics: Population, Languages, and Ethnic Groups](*)
+   - [Major Cities and Urban Development](*)
+   - [Culture: Art, Music, Dance, and Festivals](*)
+   - [Education and Literacy](*)
+   - [Key Political Figures and Governance](*)
+   - [Infrastructure: Transportation and Energy](*)
+   - [Social Issues: Healthcare, Poverty, and Gender](*)
+   - [Environmental Concerns and Wildlife](*)
+   - [Tourism: Major Attractions and Tourism Policies](*)
+   - [Current Affairs and Recent Developments](*)
+   - [State Symbols: Bird, Animal, Flower, and Tree](*)
 
 ### **2. Arunachal Pradesh**
-   - Geography and Border Issues
-   - Indigenous Tribes and Ethnic Groups
-   - Traditional Practices and Festivals
-   - Impact of Chinese Border Disputes
-   - Infrastructure Challenges
-   - Wildlife and Conservation Efforts
-   - Economic Activities: Agriculture and Handicrafts
-   - Government Policies for Tribal Welfare
-   - Tourism Potential: Natural Beauty and Adventure Tourism
-   - Education and Literacy Challenges
-   - Environmental Issues: Deforestation and Landslides
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography and Border Issues](*)
+   - [Indigenous Tribes and Ethnic Groups](*)
+   - [Traditional Practices and Festivals](*)
+   - [Impact of Chinese Border Disputes](*)
+   - [Infrastructure Challenges](*)
+   - [Wildlife and Conservation Efforts](*)
+   - [Economic Activities: Agriculture and Handicrafts](*)
+   - [Government Policies for Tribal Welfare](*)
+   - [Tourism Potential: Natural Beauty and Adventure Tourism](*)
+   - [Education and Literacy Challenges](*)
+   - [Environmental Issues: Deforestation and Landslides](*)
+   - [Current Affairs and Recent Developments](*)
+   - [State Symbols: Bird, Animal, Flower, and Tree](*)
 
 ### **3. Assam**
    - Geography: Brahmaputra River and Tea Gardens
