@@ -1,4 +1,4 @@
-# Indian States
+# Indian States ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### **1. Andhra Pradesh**
    - [Geography and Climate](#)
