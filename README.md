@@ -399,113 +399,113 @@
 ### **Union Territories**
 
 ### **1. Andaman and Nicobar Islands**
-   - Geography: Islands, Coral Reefs, and Marine Life
-   - History: Colonial Era, Cellular Jail, and Strategic Importance
-   - Economy: Tourism, Fisheries, and Agriculture
-   - Demographics: Indigenous Tribes, Population, and Languages
-   - Culture: Festivals, Music, Dance, and Handicrafts
-   - Governance: Administrative Structure and Key Leaders
-   - Infrastructure: Connectivity, Tourism Development, and Energy
-   - Social Issues: Tribal Rights, Education, and Healthcare
-   - Environmental Concerns: Coral Conservation, Deforestation, and Marine Pollution
-   - Tourism: Beaches, Historical Sites, and Natural Beauty
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Islands, Coral Reefs, and Marine Life](#)
+   - [History: Colonial Era, Cellular Jail, and Strategic Importance](#)
+   - [Economy: Tourism, Fisheries, and Agriculture](#)
+   - [Demographics: Indigenous Tribes, Population, and Languages](#)
+   - [Culture: Festivals, Music, Dance, and Handicrafts](#)
+   - [Governance: Administrative Structure and Key Leaders](#)
+   - [Infrastructure: Connectivity, Tourism Development, and Energy](#)
+   - [Social Issues: Tribal Rights, Education, and Healthcare](#)
+   - [Environmental Concerns: Coral Conservation, Deforestation, and Marine Pollution](#)
+   - [Tourism: Beaches, Historical Sites, and Natural Beauty](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **2. Chandigarh**
-   - Geography: Planned City, Urban Layout, and Surrounding Areas
-   - History: Formation, Architectural Significance, and Role as a Capital
-   - Economy: IT Sector, Administration, and Tourism
-   - Demographics: Population, Languages, and Religious Groups
-   - Culture: Festivals, Music, Dance, and Art
-   - Governance: Administrative Structure, Key Leaders, and Politics
-   - Infrastructure: Urban Development, Transportation, and Energy
-   - Social Issues: Education, Healthcare, and Urbanization
-   - Environmental Concerns: Green Spaces, Pollution, and Waste Management
-   - Tourism: Architecture, Museums, and Gardens
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Planned City, Urban Layout, and Surrounding Areas](#)
+   - [History: Formation, Architectural Significance, and Role as a Capital](#)
+   - [Economy: IT Sector, Administration, and Tourism](#)
+   - [Demographics: Population, Languages, and Religious Groups](#)
+   - [Culture: Festivals, Music, Dance, and Art](#)
+   - [Governance: Administrative Structure, Key Leaders, and Politics](#)
+   - [Infrastructure: Urban Development, Transportation, and Energy](#)
+   - [Social Issues: Education, Healthcare, and Urbanization](#)
+   - [Environmental Concerns: Green Spaces, Pollution, and Waste Management](#)
+   - [Tourism: Architecture, Museums, and Gardens](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **3. Dadra and Nagar Haveli and Daman and Diu**
-   - Geography: Coastal Areas, Rivers, and Islands
-   - History: Portuguese Influence, Colonial Era, and Integration
-   - Economy: Tourism, Agriculture, and Small Industries
-   - Demographics: Population, Languages, and Ethnic Groups
-   - Culture: Festivals, Music, Dance, and Handicrafts
-   - Governance: Administrative Structure and Key Leaders
-   - Infrastructure: Roads, Connectivity, and Rural Development
-   - Social Issues: Education, Healthcare, and Tribal Welfare
-   - Environmental Concerns: Coastal Erosion, Deforestation, and Pollution
-   - Tourism: Beaches, Historical Sites, and Cultural Heritage
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Coastal Areas, Rivers, and Islands](#)
+   - [History: Portuguese Influence, Colonial Era, and Integration](#)
+   - [Economy: Tourism, Agriculture, and Small Industries](#)
+   - [Demographics: Population, Languages, and Ethnic Groups](#)
+   - [Culture: Festivals, Music, Dance, and Handicrafts](#)
+   - [Governance: Administrative Structure and Key Leaders](#)
+   - [Infrastructure: Roads, Connectivity, and Rural Development](#)
+   - [Social Issues: Education, Healthcare, and Tribal Welfare](#)
+   - [Environmental Concerns: Coastal Erosion, Deforestation, and Pollution](#)
+   - [Tourism: Beaches, Historical Sites, and Cultural Heritage](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **4. Lakshadweep**
-   - Geography: Coral Islands, Lagoons, and Marine Life
-   - History: Early Inhabitants, Colonial Era, and Strategic Importance
-   - Economy: Tourism, Fisheries, and Agriculture
-   - Demographics: Population, Languages, and Religious Groups
-   - Culture: Festivals, Music, Dance, and Handicrafts
-   - Governance: Administrative Structure and Key Leaders
-   - Infrastructure: Connectivity, Tourism Development, and Energy
-   - Social Issues: Education, Healthcare, and Isolation
-   - Environmental Concerns: Coral Conservation, Marine Pollution, and Climate Change
-   - Tourism: Beaches, Marine Life, and Adventure Tourism
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Coral Islands, Lagoons, and Marine Life](#)
+   - [History: Early Inhabitants, Colonial Era, and Strategic Importance](#)
+   - [Economy: Tourism, Fisheries, and Agriculture](#)
+   - [Demographics: Population, Languages, and Religious Groups](#)
+   - [Culture: Festivals, Music, Dance, and Handicrafts](#)
+   - [Governance: Administrative Structure and Key Leaders](#)
+   - [Infrastructure: Connectivity, Tourism Development, and Energy](#)
+   - [Social Issues: Education, Healthcare, and Isolation](#)
+   - [Environmental Concerns: Coral Conservation, Marine Pollution, and Climate Change](#)
+   - [Tourism: Beaches, Marine Life, and Adventure Tourism](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **5. Delhi (National Capital Territory)**
-   - Geography: Urban Layout, Yamuna River, and Surrounding Areas
-   - History: Ancient Kingdoms, Mughal Era, and British Rule
-   - Economy: Service Sector, Administration, and Tourism
-   - Demographics: Population, Languages, and Religious Groups
-   - Culture: Festivals, Music, Dance, and Art
-   - Governance: Administrative Structure, Key Leaders, and Politics
-   - Infrastructure: Urban Development, Transportation, and Energy
-   - Social Issues: Education, Healthcare, and Urbanization
-   - Environmental Concerns: Pollution, Waste Management, and Green Spaces
-   - Tourism: Historical Sites, Museums, and Cultural Heritage
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
-
+   - [Geography: Urban Layout, Yamuna River, and Surrounding Areas](#)
+   - [History: Ancient Kingdoms, Mughal Era, and British Rule](#)
+   - [Economy: Service Sector, Administration, and Tourism](#)
+   - [Demographics: Population, Languages, and Religious Groups](#)
+   - [Culture: Festivals, Music, Dance, and Art](#)
+   - [Governance: Administrative Structure, Key Leaders, and Politics](#)
+   - [Infrastructure: Urban Development, Transportation, and Energy](#)
+   - [Social Issues: Education, Healthcare, and Urbanization](#)
+   - [Environmental Concerns: Pollution, Waste Management, and Green Spaces](#)
+   - [Tourism: Historical Sites, Museums, and Cultural Heritage](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
+]
 ### **6. Puducherry**
-   - Geography: Coastal Areas, Rivers, and Islands
-   - History: French Colonial Era, Independence, and Integration
-   - Economy: Tourism, Agriculture, and Small Industries
-   - Demographics: Population, Languages, and Religious Groups
-   - Culture: Festivals, Music, Dance, and Architecture
-   - Governance: Administrative Structure and Key Leaders
-   - Infrastructure: Roads, Connectivity, and Rural Development
-   - Social Issues: Education, Healthcare, and Urbanization
-   - Environmental Concerns: Coastal Erosion, Waste Management, and Pollution
-   - Tourism: Beaches, Historical Sites, and Cultural Heritage
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Coastal Areas, Rivers, and Islands](#)
+   - [History: French Colonial Era, Independence, and Integration](#)
+   - [Economy: Tourism, Agriculture, and Small Industries](#)
+   - [Demographics: Population, Languages, and Religious Groups](#)
+   - [Culture: Festivals, Music, Dance, and Architecture](#)
+   - [Governance: Administrative Structure and Key Leaders](#)
+   - [Infrastructure: Roads, Connectivity, and Rural Development](#)
+   - [Social Issues: Education, Healthcare, and Urbanization](#)
+   - [Environmental Concerns: Coastal Erosion, Waste Management, and Pollution](#)
+   - [Tourism: Beaches, Historical Sites, and Cultural Heritage](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **7. Ladakh**
-   - Geography: High Altitude, Mountains, and Rivers
-   - History: Ancient Kingdoms, Buddhist Influence, and Modern Conflicts
-   - Economy: Tourism, Agriculture, and Handicrafts
-   - Demographics: Ethnic Groups, Languages, and Population
-   - Culture: Festivals, Music, Dance, and Handicrafts
-   - Governance: Administrative Structure, Key Leaders, and Politics
-   - Infrastructure: Roads, Connectivity, and Rural Development
-   - Social Issues: Education, Healthcare, and Isolation
-   - Environmental Concerns: Glacial Retreat, Water Scarcity, and Wildlife Conservation
-   - Tourism: Natural Beauty, Monasteries, and Adventure Tourism
-   - Current Affairs and Recent Developments
-   - Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: High Altitude, Mountains, and Rivers](#)
+   - [History: Ancient Kingdoms, Buddhist Influence, and Modern Conflicts](#)
+   - [Economy: Tourism, Agriculture, and Handicrafts](#)
+   - [Demographics: Ethnic Groups, Languages, and Population](#)
+   - [Culture: Festivals, Music, Dance, and Handicrafts](#)
+   - [Governance: Administrative Structure, Key Leaders, and Politics](#)
+   - [Infrastructure: Roads, Connectivity, and Rural Development](#)
+   - [Social Issues: Education, Healthcare, and Isolation](#)
+   - [Environmental Concerns: Glacial Retreat, Water Scarcity, and Wildlife Conservation](#)
+   - [Tourism: Natural Beauty, Monasteries, and Adventure Tourism](#)
+   - [Current Affairs and Recent Developments](#)
+   - [Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **8. Jammu and Kashmir**
-   - Geography: Valleys, Mountains, and Rivers
-   - History: Ancient Dynasties, Mughal Influence, and Modern Conflicts
-   - Economy: Handicrafts, Tourism, and Agriculture
-   - Demographics: Ethnic Groups, Religions, and Languages
-   - Culture: Kashmiri Music, Dance, Art, and Festivals
-   - Political Scenario: Article 370, Political Movements, and Governance
-   - Infrastructure: Roads, Connectivity, and Urbanization
-   - Social Issues: Education, Healthcare, and Conflict Impact
-   - Environmental Concerns: Glacial Retreat, Floods, and Deforestation
-   - Tourism: Srinagar, Gulmarg, Vaishno Devi, and Adventure Tourism
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Valleys, Mountains, and Rivers](#)
+   - [History: Ancient Dynasties, Mughal Influence, and Modern Conflicts](#)
+   - [Economy: Handicrafts, Tourism, and Agriculture](#)
+   - [Demographics: Ethnic Groups, Religions, and Languages](#)
+   - [Culture: Kashmiri Music, Dance, Art, and Festivals](#)
+   - [Political Scenario: Article 370, Political Movements, and Governance](#)
+   - [Infrastructure: Roads, Connectivity, and Urbanization](#)
+   - [Social Issues: Education, Healthcare, and Conflict Impact](#)
+   - [Environmental Concerns: Glacial Retreat, Floods, and Deforestation](#)
+   - [Tourism: Srinagar, Gulmarg, Vaishno Devi, and Adventure Tourism](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
