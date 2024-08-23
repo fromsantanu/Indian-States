@@ -285,18 +285,18 @@
    - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **21. Rajasthan**
-   - [Geography: Thar Desert, Aravalli Range, and Rivers]
-   - [History: Rajput Kingdoms, Mughal Era, and British Rule]
-   - [Economy: Tourism, Handicrafts, and Agriculture]
-   - [Demographics: Rajputs, Tribes, and Languages]
-   - [Culture: Folk Music, Dance, Art, and Festivals]
-   - [Political Scenario: Key Leaders, Parties, and Governance]
-   - [Infrastructure: Roads, Energy, and Urban Development]
-   - [Social Issues: Caste Dynamics, Gender Issues, and Education]
-   - [Environmental Challenges: Desertification, Water Management, and Wildlife Conservation]
-   - [Tourism: Palaces, Forts, and Desert Safari]
-   - [Current Affairs and Recent Developments]
-   - [State Symbols: Bird, Animal, Flower, and Tree]
+   - [Geography: Thar Desert, Aravalli Range, and Rivers](#)
+   - [History: Rajput Kingdoms, Mughal Era, and British Rule](#)
+   - [Economy: Tourism, Handicrafts, and Agriculture](#)
+   - [Demographics: Rajputs, Tribes, and Languages](#)
+   - [Culture: Folk Music, Dance, Art, and Festivals](#)
+   - [Political Scenario: Key Leaders, Parties, and Governance](#)
+   - [Infrastructure: Roads, Energy, and Urban Development](#)
+   - [Social Issues: Caste Dynamics, Gender Issues, and Education](#)
+   - [Environmental Challenges: Desertification, Water Management, and Wildlife Conservation](#)
+   - [Tourism: Palaces, Forts, and Desert Safari](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **22. Sikkim**
    - [Geography: Himalayas, Rivers, and Glaciers](#)
