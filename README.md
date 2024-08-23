@@ -145,48 +145,46 @@
    - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **11. Karnataka**
-   - Geography: Western Ghats, Coastal Areas, and Plateaus
-   - History: Ancient Kingdoms, Vijayanagar Empire, and Colonial Era
-   - Economy: IT Sector, Agriculture, and Industries
-   - Demographics: Kannada Language, Ethnic Groups, and Population
-   - Culture: Carnatic Music, Dance, Literature, and Festivals
-   - Political Landscape: Key Leaders, Parties, and Governance
-   - Infrastructure: Urban Development, Transportation, and Energy
-   - Social Issues: Education, Caste Dynamics, and Healthcare
-   - Environmental Concerns: Deforestation, Water Management, and Wildlife
-   - Tourism: Heritage Sites, Temples, and Hill Stations
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Western Ghats, Coastal Areas, and Plateaus](#)
+   - [History: Ancient Kingdoms, Vijayanagar Empire, and Colonial Era](#)
+   - [Economy: IT Sector, Agriculture, and Industries](#)
+   - [Demographics: Kannada Language, Ethnic Groups, and Population](#)
+   - [Culture: Carnatic Music, Dance, Literature, and Festivals](#)
+   - [Political Landscape: Key Leaders, Parties, and Governance](#)
+   - [Infrastructure: Urban Development, Transportation, and Energy](#)
+   - [Social Issues: Education, Caste Dynamics, and Healthcare](#)
+   - [Environmental Concerns: Deforestation, Water Management, and Wildlife](#)
+   - [Tourism: Heritage Sites, Temples, and Hill Stations](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **12. Kerala**
-   - Geography: Backwaters, Western Ghats, and Coastal Plains
-   - History: Ancient Trade, Colonial Influence, and Modern Development
-   - Economy: Tourism, Agriculture, and Remittances
-   - Demographics: Population, Languages, and Religious Groups
-   - Culture: Classical Music, Kathakali, Literature, and Festivals
-   - Political Landscape: Communist Movement, Key Leaders, and Governance
-   - Infrastructure: Healthcare, Education, and Urban Development
-   - Social Issues: Literacy, Healthcare, and Migration
-   - Environmental Issues: Floods, Deforestation, and Wildlife Conservation
-   - Tourism: Beaches, Hill Stations, and Cultural Heritage
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Backwaters, Western Ghats, and Coastal Plains](#)
+   - [History: Ancient Trade, Colonial Influence, and Modern Development](#)
+   - [Economy: Tourism, Agriculture, and Remittances](#)
+   - [Demographics: Population, Languages, and Religious Groups](#)
+   - [Culture: Classical Music, Kathakali, Literature, and Festivals](#)
+   - [Political Landscape: Communist Movement, Key Leaders, and Governance](#)
+   - [Infrastructure: Healthcare, Education, and Urban Development](#)
+   - [Social Issues: Literacy, Healthcare, and Migration](#)
+   - [Environmental Issues: Floods, Deforestation, and Wildlife Conservation](#)
+   - [Tourism: Beaches, Hill Stations, and Cultural Heritage](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **13. Madhya Pradesh**
-   - Geography: Central Highlands, Rivers, and Forests
-   - History: Ancient Kingdoms, Mughal Era, and British Rule
-   - Economy: Agriculture, Mining, and Tourism
-   - Demographics: Population, Languages, and Tribal Communities
-   - Culture: Folk Music, Dance, Art, and Festivals
-   - Political Scenario: Key Leaders, Parties, and Governance
-   - Infrastructure: Roads, Energy, and Urban Development
-   - Social Issues: Tribal Rights, Education, and
-
- Healthcare
-   - Environmental Challenges: Deforestation, Water Management, and Wildlife Conservation
-   - Tourism: Historical Sites, Wildlife Sanctuaries, and Cultural Heritage
-   - Current Affairs and Recent Developments
-   - State Symbols: Bird, Animal, Flower, and Tree
+   - [Geography: Central Highlands, Rivers, and Forests](#)
+   - [History: Ancient Kingdoms, Mughal Era, and British Rule](#)
+   - [Economy: Agriculture, Mining, and Tourism](#)
+   - [Demographics: Population, Languages, and Tribal Communities](#)
+   - [Culture: Folk Music, Dance, Art, and Festivals](#)
+   - [Political Scenario: Key Leaders, Parties, and Governance](#)
+   - [Infrastructure: Roads, Energy, and Urban Development](#)
+   - [Social Issues: Tribal Rights, Education, and Healthcare](#)
+   - [Environmental Challenges: Deforestation, Water Management, and Wildlife Conservation](#)
+   - [Tourism: Historical Sites, Wildlife Sanctuaries, and Cultural Heritage](#)
+   - [Current Affairs and Recent Developments](#)
+   - [State Symbols: Bird, Animal, Flower, and Tree](#)
 
 ### **14. Maharashtra**
    - Geography: Western Ghats, Coastal Areas, and Rivers
