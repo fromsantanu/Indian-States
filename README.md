@@ -1,6 +1,6 @@
 # Indian States ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
-### [**1. Andhra Pradesh**](https://github.com/fromsantanu/Indian-States/blob/main/Pages/Chapter01-01.md)
+### [**1. Andhra Pradesh**](https://github.com/fromsantanu/Indian-States/blob/main/Pages/Chapter01.md)
    - [Geography and Climate](https://github.com/fromsantanu/Indian-States/blob/main/Pages/Chapter01-02.md)
    - [History and Major Historical Sites](https://github.com/fromsantanu/Indian-States/blob/main/Pages/Chapter01-03.md)
    - [Economy: Agriculture, Industries, and Services](https://github.com/fromsantanu/Indian-States/blob/main/Pages/Chapter01-04.md)
